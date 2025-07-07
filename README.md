@@ -8,4 +8,4 @@ También se detecta el nivel de voltaje de la batería y su temperatura Al sobre
 - Al descargar los archivos es necesario crear la carpeta ArchivosTexto en la raiz del programa, la cual debe contener en su interior las carpetas: PruebaFuncionamiento2, Totem, VoltajeBateria, WebPage, WebPage2 y WebPage3
 - La contraseña para finalizar el programa se encuentra en el módulo creacionInterfazPrincipal.py, donde se muestra que es 12345.
 - El programa envía los datos recopilados a Firestore dentro de la franja horaria de las 10h00 hasta las 14h00, por lo que el usuario debe crear una clave .JSON y colocarla en la raiz para poder ejecuar correctamente el programa
-- Los datos subidos a Firestore son usados posteriormente por una PWA. El desarrollo de la PWA se puede ver en el siguiente enlace: 
+- Los datos subidos a Firestore son usados posteriormente por una PWA. El desarrollo de la PWA se puede ver en el siguiente enlace: https://github.com/DavidIsraelVillarreal/Interfaz-PWA.git
