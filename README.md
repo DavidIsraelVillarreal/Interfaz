@@ -1,7 +1,6 @@
 # Interfaz
 **¿Qué ejecuta el programa?**
 Proyecto de una interfaz gráfica en Python usando la librería tkinter para la lectura de los sensores DHT22, ML8511 y SDS011 a través de una Raspberry Pi 3B.
-
 También se detecta el nivel de voltaje de la batería y su temperatura. Al sobrepasar esos umbrales (11 V y 45 °C) el programa finaliza automaticamente, apagando también la Raspberry Pi 3B.
 
 **Consideraciones:**
